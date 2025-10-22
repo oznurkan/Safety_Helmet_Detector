@@ -40,7 +40,7 @@ Following this process, a user interface was developed using **PyQt5**.
   </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="./SourceFiles/images/R_curve.png" alt="Geri Çağırma Eğrisi" width="200" height="200"width="200"/>
+    <img src="./SourceFiles/images/R_curve.png" alt="Geri Çağırma Eğrisi" width="200" height="200"/>
     <img src="./SourceFiles/images/results.png" alt="Sonuçlar" width="200" height="200"/>
     <img src="./SourceFiles/images/train_batch0.jpg" alt="Eğitim Grubu 0" width="200" height="200"/>
     <img src="./SourceFiles/images/train_batch2.jpg" alt="Eğitim Grubu 2" width="200" height="200"/>
@@ -111,11 +111,11 @@ python SourceFiles/main.py
 <div style="text-align: center;">
 <div style="display: flex; justify-content: center; gap: 20px;">
   
-  <img src="./SourceFiles/images/person.png" alt="Kasksız Kişi Görseli" width="300" height="200"/>
+  <img src="./SourceFiles/images/person.png" alt="Kasksız Kişi Görseli" width="250" height="200"/>
   
-  <img src="./SourceFiles/images/head.png" alt="Baş Görseli" width="300" height="200"/>
+  <img src="./SourceFiles/images/head.png" alt="Baş Görseli" width="250" height="200"/>
   
-  <img src="./SourceFiles/images/helmet.png" alt="Kasklı Kişi Görseli" width="300" height="200"/>
+  <img src="./SourceFiles/images/helmet.png" alt="Kasklı Kişi Görseli" width="250" height="200"/>
 
 </div>
 </div>
