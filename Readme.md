@@ -33,27 +33,24 @@ Following this process, a user interface was developed using **PyQt5**.
 
 <div style="text-align: center;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="./SourceFiles/images/F1_curve.png" alt="F1 Eğrisi" width="200"/>
-    <img src="./SourceFiles/images/confusion_matrix.png" alt="Karmaşıklık Matrisi" width="200"/>
-    <img src="./SourceFiles/images/labels.jpg" alt="Etiketler" width="200"/>
+    <img src="./SourceFiles/images/F1_curve.png" alt="F1 Eğrisi" width="200" height="200"/>
+    <img src="./SourceFiles/images/confusion_matrix.png" alt="Karmaşıklık Matrisi" width="200" height="200"/>
+    <img src="./SourceFiles/images/labels.jpg" alt="Etiketler" width="200" height="200"/>
+    <img src="./SourceFiles/images/P_curve.png" alt="Hassasiyet Eğrisi" width="200" height="200"/>
   </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="./SourceFiles/images/P_curve.png" alt="Hassasiyet Eğrisi" width="200"/>
-    <img src="./SourceFiles/images/R_curve.png" alt="Geri Çağırma Eğrisi" width="200"/>
-    <img src="./SourceFiles/images/results.png" alt="Sonuçlar" width="200"/>
+    <img src="./SourceFiles/images/R_curve.png" alt="Geri Çağırma Eğrisi" width="200" height="200"width="200"/>
+    <img src="./SourceFiles/images/results.png" alt="Sonuçlar" width="200" height="200"/>
+    <img src="./SourceFiles/images/train_batch0.jpg" alt="Eğitim Grubu 0" width="200" height="200"/>
+    <img src="./SourceFiles/images/train_batch2.jpg" alt="Eğitim Grubu 2" width="200" height="200"/>
   </div>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-bottom: 15px;">
-    <img src="./SourceFiles/images/train_batch0.jpg" alt="Eğitim Grubu 0" width="200"/>
-    <img src="./SourceFiles/images/train_batch2.jpg" alt="Eğitim Grubu 2" width="200"/>
-    <img src="./SourceFiles/images/val_batch1_labels.jpg" alt="Doğrulama Etiketleri 1" width="200"/>
-  </div>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <img src="./SourceFiles/images/val_batch1_pred.jpg" alt="Doğrulama Tahminleri 1" width="200"/>
-    <img src="./SourceFiles/images/val_batch2_labels.jpg" alt="Doğrulama Etiketleri 2" width="200"/>
-    <img src="./SourceFiles/images/val_batch2_pred.jpg" alt="Doğrulama Tahminleri 2" width="200"/>
+    <img src="./SourceFiles/images/val_batch1_labels.jpg" alt="Doğrulama Etiketleri 1" width="200" height="200"/>
+       <img src="./SourceFiles/images/val_batch1_pred.jpg" alt="Doğrulama Tahminleri 1" width="200" height="200"/>
+    <img src="./SourceFiles/images/val_batch2_labels.jpg" alt="Doğrulama Etiketleri 2" width="200" height="200"/>
+    <img src="./SourceFiles/images/val_batch2_pred.jpg" alt="Doğrulama Tahminleri 2" width="200" height="200"/>
   </div>
 </div>
 
@@ -111,12 +108,14 @@ python SourceFiles/main.py
 
 ## Project 
 
+<div style="text-align: center;">
 <div style="display: flex; justify-content: center; gap: 20px;">
   
-  <img src="./SourceFiles/images/person.png" alt="Kasksız Kişi Görseli" width="120" height="100"/>
+  <img src="./SourceFiles/images/person.png" alt="Kasksız Kişi Görseli" width="300" height="200"/>
   
-  <img src="./SourceFiles/images/head.png" alt="Baş Görseli" width="120" height="100"/>
+  <img src="./SourceFiles/images/head.png" alt="Baş Görseli" width="300" height="200"/>
   
-  <img src="./SourceFiles/images/helmet.png" alt="Kasklı Kişi Görseli" width="120" height="100"/>
+  <img src="./SourceFiles/images/helmet.png" alt="Kasklı Kişi Görseli" width="300" height="200"/>
 
+</div>
 </div>
